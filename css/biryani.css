@@ -1,0 +1,25 @@
+h1 {
+    background-color: rgb(240, 143, 255);
+}
+
+h2 {
+    color: orange;
+}
+
+.sec1 p {
+    text-transform: capitalize;
+    text-indent: 3rem;
+    color: blue;
+}
+
+.sec1,
+.sec2,
+.sec3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: red;
+}
+
+.sec3 {
+    color: rebeccapurple;
+}

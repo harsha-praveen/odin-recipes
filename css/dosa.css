@@ -1,0 +1,29 @@
+h1 {
+    background-color: darkorange;
+    font-style: oblique;
+}
+
+.sec1>p {
+    font-size: 24px;
+    font-style: italic;
+    text-indent: 24px;
+    text-align: justify;
+    color: rebeccapurple;
+}
+
+.sec2>ul {
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: rgb(0, 255, 150);
+    list-style-type: square;
+}
+
+.sec3>ol {
+    font-size: 1.5rem;
+    background-color: aqua;
+    list-style-type: circle;
+}
+
+h2 {
+    color: red
+}

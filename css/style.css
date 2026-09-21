@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+ul {
+    margin: 32px;
+    padding: 8px;
+    background-color: chartreuse;
+    list-style-type: none;
+    margin: 0 0;
+}
+
+li {
+    margin: 8px;
+    padding: 2px;
+}
+
+.edu-nsw-act-cursive-harsha {
+    font-family: "Edu NSW ACT Cursive", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}

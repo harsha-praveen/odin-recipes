@@ -1,0 +1,36 @@
+html {
+    font-size: 1rem;
+}
+
+body {
+    background-color: beige;
+}
+
+h1,
+h2 {
+    background-color: aqua;
+}
+
+.sec1 p {
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgb(255, 0, 255);
+}
+
+.sec1 h2+p:first-of-type::first-letter {
+    font-size: 48px;
+    color: black;
+}
+
+.sec2 ul {
+    font-size: 1.5rem;
+    color: green;
+    text-decoration: underline;
+}
+
+.sec3 ol {
+    font-size: 1.5rem;
+    color: brown;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
